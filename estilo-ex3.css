@@ -1,0 +1,32 @@
+.divA{
+    background-color: #cfcfcf;
+    width: 50%;
+    height: 300px;
+}
+
+.divB{
+    background-color: #636363;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+}
+
+.paragrafo{
+    color: #1f9203;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.divC{
+    width: 50%;
+    height: 20vh;
+    background-color: #F5DEB3;
+}
+
+.divD{
+    width: 50%;
+    height: 100%;
+    background-color: #DEB887;
+}
